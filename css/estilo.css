@@ -1,0 +1,25 @@
+ body{
+    background: #FFefef;
+    text-align: center;
+ }
+ .red {
+    border: 1px solid  red;
+}
+.bg-blue{
+    background: blue;
+    color: #fff;
+}
+.center{
+
+    width: 80%;
+    padding: 20px;
+    margin: 3% auto;
+
+}
+img{
+    margin: 3% auto;
+}
+
+ul{
+    list-style-type: square;
+}
